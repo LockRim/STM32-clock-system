@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "stm32f10x_rcc.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "led.h": "c",
+        "stm32f10x.h": "c",
+        "sys.h": "c",
+        "delay.h": "c",
+        "misc.h": "c",
+        "stm32f10x_exti.h": "c",
+        "stm32f10x_tim.h": "c",
+        "key.h": "c",
+        "usart.h": "c",
+        "cstdint": "c",
+        "array": "c",
+        "deque": "c",
+        "forward_list": "c",
+        "list": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "io_context": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "myiic.h": "c"
+    }
+}
